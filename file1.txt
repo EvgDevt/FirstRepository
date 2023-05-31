@@ -6,3 +6,4 @@ This line is ment for a remote repo commit practice.
 12345
 
 line from user1
+line from user2
