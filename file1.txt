@@ -9,3 +9,4 @@ line from user1
 line from user2
 line from user1 - rebase lesson
 
+line from user1 - rebase lesson attempt #2
